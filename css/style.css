@@ -16,6 +16,25 @@
 #board {
   border:2px solid black;
 }
+
 .col-xs-4 {
   border:1px solid red;
+  background-image: url("");
+
+}
+
+.col-xs-12 {
+  border: 5px dotted purple;
+}
+
+.userInput {
+  background-image: null;
+}
+
+.userInput_click_x {
+  background-image: ;
+}
+
+.userInput_click_o {
+  background-image: ;
 }
