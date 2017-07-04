@@ -2,6 +2,7 @@
 $(document).ready(function () {
   var playerTurn = ['userInput_click_p1', 'userInput_click_p2', 'userInput_click_p1', 'userInput_click_p2', 'userInput_click_p1', 'userInput_click_p2', 'userInput_click_p1', 'userInput_click_p2', 'userInput_click_p1']
 
+
   $('.userInput').click(function () {
     if (playerTurn.length !== 0) {
       if (playerTurn.length % 2 !== 0) {

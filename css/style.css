@@ -9,21 +9,13 @@
   height: 150px;
 }
 
-#board {
-  /*border: 2px solid black;*/
-}
-
 .col-xs-4 {
   /*border: 1px solid red;*/
   background-image: url("");
 }
 
 .col-xs-12 {
-  /*border: 5px dotted purple;*/
-}
-
-.userInput {
-  background-image: null;
+  height:200%;
 }
 
 .userInput_click_p1 {
