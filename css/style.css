@@ -1,22 +1,15 @@
-
+/*
 
 #board {
   margin-top: 10px;
-}
+}*/
 
 .box {
   border: 1px solid black;
   height: 150px;
 }
 
-.col-xs-4 {
-  /*border: 1px solid red;*/
-  background-image: url("");
-}
-
-.col-xs-12 {
-  height:200%;
-}
+/*click toggle classes */
 
 .userInput_click_p1 {
   background-image: url('../img/X.png');
