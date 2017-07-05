@@ -4,7 +4,7 @@ $(document).ready(function() {
 
       $('.userInput').click(function() {
           if (playerTurn.length === 0) {
-              window.alert("Game is over..")
+              window.alert('Draw! Or someone won and both of you are blind')
             } else if ($(this).hasClass('user_click_p1')) {
               window.alert('Already taken, please select a empty square!')
             } else if ($(this).hasClass('user_click_p2')) {
