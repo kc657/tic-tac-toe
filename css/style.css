@@ -1,9 +1,3 @@
-/*
-
-#board {
-  margin-top: 10px;
-}*/
-
 .box {
   border: 1px solid black;
   height: 150px;
@@ -11,16 +5,16 @@
 
 /*click toggle classes */
 
-.userInput_click_p1 {
+.user_click_p1 {
   background-image: url('../img/X.png');
-  background-size: 60%;
+  background-size: 50%;
   background-repeat:no-repeat;
   background-position: center;
 }
 
-.userInput_click_p2 {
+.user_click_p2 {
   background-image: url('../img/O.png');
-  background-size: 105%;
+  background-size: 95%;
   background-repeat:no-repeat;
   background-position: center;
 }

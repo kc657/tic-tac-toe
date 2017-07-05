@@ -8,9 +8,9 @@ We've been learning about working with conditionals and loops, as well as writin
 For this lab, we'll be making a tic-tac-toe game using the knowledge and skills you've learned so far.
 
 ## Baseline Requirements
-* Users should be able to click on any empty box to make a move.   
-* Every move should alternate between marking an `X` and `O` (the two players).  
-* A user should not be able to claim a box that has already been claimed for `X` or `O`.
+!!DONE!!* Users should be able to click on any empty box to make a move.   
+!!DONE!!* Every move should alternate between marking an `X` and `O` (the two players).  
+!!DONE!!* A user should not be able to claim a box that has already been claimed for `X` or `O`.
 * Users should be able to click a "reset" button to clear all `X`'s and `O`'s from the board and restart the game.
 
 
