@@ -4,7 +4,7 @@ $(document).ready(function() {
 
       $('.userInput').click(function() {
           if (playerTurn.length === 0) {
-              window.alert('Draw! Or someone won and both of you are blind')
+              window.alert('Draw..or someone won and both of you are blind. Please click the "Reset Game" button to play again.')
             } else if ($(this).hasClass('user_click_p1')) {
               window.alert('Already taken, please select a empty square!')
             } else if ($(this).hasClass('user_click_p2')) {
@@ -23,8 +23,6 @@ $(document).ready(function() {
                   playerTurn.splice(0, 1)
                 }
               }
-            } else {
-              window.alert('Game is over! Please click the reset button to play again');
             }
           })
       })

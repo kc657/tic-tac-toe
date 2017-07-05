@@ -18,3 +18,10 @@
   background-repeat:no-repeat;
   background-position: center;
 }
+
+
+/* button style */
+.btn-primary {
+  background-color: gray;
+  font-style: italic;
+}
